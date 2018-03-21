@@ -1,4 +1,4 @@
-# :newspaper: Mongo News Scraper :speech_balloon:
+Mongo News Scraper # :newspaper: :speech_balloon:
 
 Bringing you the lastest and greatest articles in tech news from "The Verge" by a scraper built with MongoDB and Mongoose. You can comment on our articles and delete them if need be.
 
